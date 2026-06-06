@@ -1,3 +1,4 @@
+//String Compression using charcter count
 public class StringCompression {
     
     public static void main(String[] args)
