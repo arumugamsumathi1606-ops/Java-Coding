@@ -3,7 +3,8 @@ package OOP;
 public class ATEncapsulationDemo {
     private double balance;
 
-    public double getBalance() {
+    public double getBalance()// Data hiding - balance is private and can only be accessed through getter and setter methods
+     {
         return balance;
     }
 
